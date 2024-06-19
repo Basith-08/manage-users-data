@@ -42,7 +42,6 @@ Note : Sesuaikan tipe datanya pada setiap kolom
 |—— img/
 |—— index.php
 |—— koneksi.php
-|—— README.txt
 |—— tambah.php
 ```
 ## Demo
